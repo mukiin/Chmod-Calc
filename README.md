@@ -1,7 +1,7 @@
 Chmod Calculator
 This program is a simple graphical tool to calculate numeric and symbolic permissions of a file or directory using the Unix-style permissions model, also known as "chmod".
 
-How to use
+How to use:
 When the program is launched, a window with three columns will appear. The left column is for the owner's permissions, the middle column is for the group's permissions, and the right column is for the public's permissions.
 
 Each column contains three checkboxes that represent read, write, and execute permissions. By checking or unchecking these checkboxes, you can set or remove the corresponding permissions for each user group.
