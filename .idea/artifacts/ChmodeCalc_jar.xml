@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ChmodeCalc:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ChmodeCalc_jar</output-path>
+    <root id="archive" name="ChmodeCalc.jar">
+      <element id="module-output" name="ChmodeCalc" />
+    </root>
+  </artifact>
+</component>
